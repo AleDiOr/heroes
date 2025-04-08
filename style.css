@@ -1,0 +1,8 @@
+.titulo {
+    background-color: rgb(69, 69, 216);
+    color: aliceblue;
+    height: 101px;
+    width: auto;
+    align-items: center;
+    display: flex;
+}
