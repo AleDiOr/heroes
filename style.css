@@ -1,3 +1,11 @@
+.barraDescuentos {
+    background-color: rgb(33, 177, 50);
+    color: aliceblue;
+    height: 38px;
+    width: auto;
+    align-items: center;
+    display: flex;
+}
 .titulo {
     background-color: rgb(69, 69, 216);
     color: aliceblue;
@@ -5,4 +13,8 @@
     width: auto;
     align-items: center;
     display: flex;
+}
+.tarjeta {
+    display: flex;
+    flex-direction:row
 }
